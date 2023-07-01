@@ -1,9 +1,8 @@
-## Olá, Mundo! Eu sou o Gabriel 👋😎
+## Hello World! I'm Gabriel 👋😎
 
-- 🌱 Estudando JavaScript 😈
-- 📖 Faço parte da Turma 33 da Trybe ╰(*°▽°*)╯ 
-- 📧 Contate-me no email: contatogabemelo@gmail.com 🫡
-- 😄 Pronouns: Qualquer um 😉
+- 🌱 I'm currently learning JavasScript and Lua 
+- 📖 Trybe - Class 33 ╰(*°▽°*)╯ 
+- 📧 Contact-me : contatogabemelo@gmail.com 🫡
 
 ##
 

@@ -1,7 +1,6 @@
 ## Hello World! I'm Gabriel 👋😎
 
-- 🌱 I'm currently learning JavasScript/TypeScript and Lua 
-- 📖 Trybe - Class 33 ╰(*°▽°*)╯ 
+- 🌱 I'm currently learning React and SQL
 - 📧 Contact-me : contatogabemelo@gmail.com 🫡
 
 ##

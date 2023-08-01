@@ -16,7 +16,6 @@
 <div>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a> 
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"></a>
-<a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 </div>
 
 ##

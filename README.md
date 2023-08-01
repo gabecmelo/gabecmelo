@@ -8,6 +8,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
 <!--   <img src="https://github.com/darkkzshw/darkkzshw/blob/main/download20230304155116.gif" img align="right" width="200" height="200" style="border-radius:50px;"> -->
 </div>
 

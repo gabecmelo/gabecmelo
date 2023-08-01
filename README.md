@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Gabriel 👋😎
 
 - 🌱 Atualmente estou estudando React and SQL
-- 📧 Contate-me : contatogabemelo@gmail.com 🫡
+- 📧 Contate-me: contatogabemelo@gmail.com 🫡
 
 ##
 

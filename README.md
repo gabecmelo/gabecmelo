@@ -1,7 +1,7 @@
-## Hello World! I'm Gabriel 👋😎
+## Olá Mundo! Eu sou o Gabriel 👋😎
 
-- 🌱 I'm currently learning React and SQL
-- 📧 Contact-me : contatogabemelo@gmail.com 🫡
+- 🌱 Atualmente estou estudando React and SQL
+- 📧 Contate-me : contatogabemelo@gmail.com 🫡
 
 ##
 

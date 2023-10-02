@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Full Stack 👋😎
 
 - 🌱 Atualmente estou estudando Python, C e SQL
-- 📧 Contate-me: contatogabemelo@gmail.com 🫡
+- 📧 Contate me: contatogabemelo@gmail.com 🫡
 
 ##
 

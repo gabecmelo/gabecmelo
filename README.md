@@ -1,6 +1,6 @@
-## Olá Mundo! Eu sou o Gabriel 👋😎
+## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Full Stack 👋😎
 
-- 🌱 Atualmente estou estudando React, C e SQL
+- 🌱 Atualmente estou estudando Python, C e SQL
 - 📧 Contate-me: contatogabemelo@gmail.com 🫡
 
 ##

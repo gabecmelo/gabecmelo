@@ -1,6 +1,7 @@
 ## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Front-End (Por enquanto 👀) 👋😎
 
 - 🌱 Atualmente estou estudando Python, C e SQL
+- 🤓 Meu Portfólio: <a target="_blank" href="https://gabecmelo.github.io/portfolio/">Clique aqui!</a>
 - 📧 Contate me: contatogabemelo@gmail.com 🫡
 
 ##

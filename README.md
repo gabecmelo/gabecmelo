@@ -1,4 +1,4 @@
-## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Full Stack 👋😎
+## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Front-End (Por enquanto 👀) 👋😎
 
 - 🌱 Atualmente estou estudando Python, C e SQL
 - 📧 Contate me: contatogabemelo@gmail.com 🫡

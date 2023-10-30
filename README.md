@@ -1,6 +1,6 @@
 ## Hello World! I'm a Full-Stack Web Developer 👋😎
 
-- 🌱 Currentyl studying NodeJS and SQL
+- 🌱 Currently studying NodeJS and SQL
 - 🤓 My portfolio: <a target="_blank" href="https://gabecmelo.github.io/portfolio/">Click me!</a>
 - 📧 Contact-me: contatogabemelo@gmail.com 🫡
 

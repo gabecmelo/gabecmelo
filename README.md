@@ -1,8 +1,8 @@
-## Olá Mundo! Eu sou o Gabriel, um Desenvolvedor Front-End (Por enquanto 👀) 👋😎
+## Hello World! I'm a Full-Stack Web Developer 👋😎
 
-- 🌱 Atualmente estou estudando Python, C e SQL
-- 🤓 Meu Portfólio: <a target="_blank" href="https://gabecmelo.github.io/portfolio/">Clique aqui!</a>
-- 📧 Contate me: contatogabemelo@gmail.com 🫡
+- 🌱 Currentyl studying NodeJS and SQL
+- 🤓 My portfolio: <a target="_blank" href="https://gabecmelo.github.io/portfolio/">Click me!</a>
+- 📧 Contact-me: contatogabemelo@gmail.com 🫡
 
 ##
 

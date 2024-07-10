@@ -1,6 +1,6 @@
 ### ✨ Hi there, I'm Gabriel! ✨
 - Analysys and systems development at the Maringá Higher Education Center / Centro de Ensino Superior de Maringá - UNICESUMAR.
-- Passionate about programming, QA, data science and machine learning.
+- Passionate about programming, data science and QA.
 
 ## Languages e Tools 💻
 <div style="display: inline">

@@ -1,6 +1,8 @@
 ### ✨ Hi there, I'm Gabriel! ✨
-- Analysys and systems development at the Maringá Higher Education Center / Centro de Ensino Superior de Maringá - UNICESUMAR.
-- Passionate about programming, data science and QA.
+- Backend Developer with a focus on building efficient, scalable, and reliable applications using Node.js.
+- Currently pursuing a degree in Analysis and Systems Development at Maringá Higher Education Center (UNICESUMAR).
+- Passionate about API development, data handling, and solving complex backend challenges.
+- Enthusiastic about exploring new technologies and improving backend performance through clean, maintainable code.
 
 ## Languages e Tools 💻
 <div style="display: inline">

@@ -1,5 +1,8 @@
-### ✨ Hi there, I'm Gabriel! ✨
-- Backend Developer with a focus on building efficient, scalable, and reliable applications using Node.js.
+# ✨ Hi there, I'm Gabriel! ✨
+### Backend and Database Management
+
+- Currently working on [Audience Lab App (Private).](https://app.audiencelab.io)
+- Fullstack Engineer with a focus on building efficient, scalable, and reliable applications using Node.js and React.js.
 - Currently pursuing a degree in Analysis and Systems Development at Maringá Higher Education Center (UNICESUMAR).
 - Passionate about API development, data handling, and solving complex backend challenges.
 - Enthusiastic about exploring new technologies and improving backend performance through clean, maintainable code.

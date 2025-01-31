@@ -1,5 +1,5 @@
 # ✨ Hi there, I'm Gabriel! ✨
-### Backend and Database Management
+### Frontend, Backend and Database Management
 
 - Currently working on [Audience Lab App (Private).](https://app.audiencelab.io)
 - Fullstack Engineer with a focus on building efficient, scalable, and reliable applications using Node.js and React.js.

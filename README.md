@@ -1,7 +1,7 @@
 # ✨ Hi there, I'm Gabriel! ✨
 ### Frontend, Backend and Database Management
 
-- Currently open to work!
+- Currently working on [Where is the spy (private)](https://github.com/SoftKoe-Games).
 - Fullstack Engineer with a focus on building efficient, scalable, and reliable applications using Node.js and React.js.
 - Currently pursuing a degree in Analysis and Systems Development at Maringá Higher Education Center (UNICESUMAR).
 - Passionate about API development, data handling, and solving complex backend challenges.

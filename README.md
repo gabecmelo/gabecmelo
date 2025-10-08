@@ -1,10 +1,8 @@
 # ✨ Hi there, I'm Gabriel! ✨
-### Frontend, Backend and Database Management
+### Frontend, Backend, Database Management, Project Management and Process Engineering
 
-- Currently working on [Where is the spy (private)](https://github.com/SoftKoe-Games).
-- Fullstack Engineer with a focus on building efficient, scalable, and reliable applications using Node.js and React.js.
+- Currently working on [Where is the spy (private)](https://github.com/SoftKoe-Games) and [Obra Fácil App (private)](https://github.com/ObraFacilBR).
 - Currently pursuing a degree in Analysis and Systems Development at Maringá Higher Education Center (UNICESUMAR).
-- Passionate about API development, data handling, and solving complex backend challenges.
 - Enthusiastic about exploring new technologies and improving backend performance through clean, maintainable code.
 
 ## Languages e Tools 💻

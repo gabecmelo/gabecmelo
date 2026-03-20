@@ -1,7 +1,8 @@
 # ✨ Hi there, I'm Gabriel! ✨
-### Frontend, Backend, Database Management, Project Management and Process Engineering
+### Frontend, Backend, Database Management and Quality Engineering
 
-- Currently working on [Where is the spy (private)](https://github.com/SoftKoe-Games) and [Obra Fácil App (private)](https://github.com/ObraFacilBR).
+- Quality Engineering Lead at [ApostaTudo](https://www.instagram.com/apostatudo.bet.br)
+- Currently working on [Conecta Paraná](https://github.com/c-s-softwares/conecta-parana) and [Orçamento Fácil App (private)](https://github.com/ObraFacilBR).
 - Currently pursuing a degree in Analysis and Systems Development at Maringá Higher Education Center (UNICESUMAR).
 - Enthusiastic about exploring new technologies and improving backend performance through clean, maintainable code.
 

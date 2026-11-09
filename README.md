@@ -1,7 +1,8 @@
 # Hi there, I'm Gabriel! 👋
 
-Software Engineer & Tech Lead based in Brazil. 
+Software Engineer at FactSet, based in São Paulo, Brazil.
 
-- Currently leading product development and architecture at C&S Softwares, where I actively architect and build [Conecta Paraná](https://github.com/c-s-softwares/conecta-parana)
-- Enthusiastic about low-level programming (C++), memory management, embedded systems, graph algorithms, and game development.
+- Building developer tooling on [Backstage](https://backstage.io) at [FactSet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.factset.com/&ved=2ahUKEwjYtIqp5PmXAxUsr5UCHb0JASMQFnoECCUQAQ&usg=AOvVaw0i5JJYmR2tMDkSn8sgmzh4)
+- Enthusiastic about low-level programming (C++), memory management, embedded systems, graph algorithms, and game development
 - Currently designing a free, comprehensive course on Graph Algorithms and Data Structures 👀
+- Big Zelda fan 🗡️ (currently replaying Ocarina of Time 98)
